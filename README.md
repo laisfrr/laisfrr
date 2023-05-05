@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Laís Oliveira👋</h1> 
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou a Laís Oliveira👋</h1> 
 
 - 🔭 Atualmente estou em transição de carreira para Dev Front-end
 - 🌱 Estudando: HTML5 | CSS3 | Javascript
@@ -12,7 +12,7 @@
 
 ##
 
-## Contact:
+## Contatos:
 <div>
 <a href="https://linkedin.com/in/laisfrr" target="_blank">
   <img align="center" target="_blank" src="https://img.shields.io/badge/-laisfrr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
