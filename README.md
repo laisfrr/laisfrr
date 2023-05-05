@@ -15,10 +15,10 @@
 ## Contact:
 <div>
 <a href="https://linkedin.com/in/laisfrr" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-laisfrr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" target="_blank" src="https://img.shields.io/badge/-laisfrr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/laisfrr" "target=_blank">
- <img align="center" src="https://img.shields.io/badge/-laisfrr-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/laisfrr" target="_blank">
+ <img align="center" target="_blank" src="https://img.shields.io/badge/-laisfrr-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
 </div>
