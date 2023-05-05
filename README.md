@@ -6,12 +6,6 @@
 - 😄 Pronomes: ela/dela
 
 ##
-<div align="left">
-  <a href="https://github.com/laisfrr">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laisfrr&show_icons=true&theme=radical"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisfrr&layout=compact&theme=radical"/>
-  </a>
-</div>
 
 
 <div style="display:inlene_block"><br>
