@@ -1,11 +1,7 @@
-## Olá! Eu sou a Laís Oliveira 👋
-
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Laís Oliveira👋</h1> 
 
 - 🔭 Atualmente estou em transição de carreira para Dev Front-end
 - 🌱 Estudando: HTML5 | CSS3 | Javascript
-- 😄 Pronomes: ela/dela
-
-##
 
 
 <div style="display:inlene_block"><br>
@@ -15,10 +11,15 @@
 </div>
 
 ##
-<h3>Caso queira me acompanhar:</h3> 
+
+## Contact:
 <div>
-<a href="https://www.instagram.com/laisfrr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/laisfrr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://linkedin.com/in/laisfrr" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-laisfrr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/laisfrr" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-laisfrr-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
 
 </div>
 
