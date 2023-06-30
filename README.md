@@ -1,7 +1,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou a Laís Oliveira👋</h1> 
 
-- 🔭 Atualmente estou em transição de carreira para Dev Front-end
-- 🌱 Estudando: HTML5 | CSS3 | Javascript
+- 🔭 Atualmente estou em transição de carreira
+- 🌱 Estudando: HTML5 | CSS3 | Javascript | NodeJs
 
 
 <div style="display:inlene_block"><br>
