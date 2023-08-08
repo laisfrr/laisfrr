@@ -23,5 +23,6 @@
 
 </div>
 
+![Snake animation](https://github.com/laisfrr/laisfrr/blob/output/github-contribution-grid-snake.svg)
 
 
