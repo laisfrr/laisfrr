@@ -20,4 +20,6 @@
 </div>
 
 
+![snake gif](https://github.com/laisfrr/laisfrr/blob/output/github-contribution-grid-snake-dark.svg)
+
 
