@@ -1,5 +1,6 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Laís Oliveira👋</h1> 
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Laís Oliveira👩🏻‍💻</h1> 
 
+-  🌅 Cearense, da terra da luz Fortaleza-ce
 -  ❤ Apaixonada por tecnologias e programação.
 - 🎮 Gamer nas horas vagas e amante de café ☕
 - 👩🏻‍💻 Buscando inicar minha carreira como <strong>Desenvolvedora de Software Backend, Frontend ou Fullstack </strong>
