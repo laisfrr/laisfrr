@@ -1,9 +1,9 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Laís Oliveira👩🏻‍💻</h1> 
 
 -  🌅 Cearense, da terra da luz Fortaleza-ce
--  ❤ Apaixonada por tecnologias e programação.
+-  ❤ Apaixonada por tecnologia e programação.
 - 🎮 Gamer nas horas vagas e amante de café ☕
-- 👩🏻‍💻 Buscando inicar minha carreira como <strong>Desenvolvedora de Software Backend, Frontend ou Fullstack </strong>
+- 👩🏻‍💻 Buscando iniciar minha carreira como <strong>Desenvolvedora de Software Backend, Frontend ou Fullstack </strong>
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas
 - 💻 Atualmente, estudando Desenvolvimento Backend na <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>
 - 🧠 Tenho conhecimento em: <strong>HTML, CSS, Javascript, NodeJs, API Rest, Express, Git, Git Flow, PostgreSQL, SQL, Python</strong>
