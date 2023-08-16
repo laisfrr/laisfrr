@@ -151,3 +151,6 @@
 
 <hr/>
 
+<div align="left">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=laisfrr&repo=laisfrr&style=for-the-badge&label=Visitantes&logo=GitHub&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github da Lais Oliveira" height="30px" />
+</div>
