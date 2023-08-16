@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Laís Oliveira👩🏻‍💻</h1> 
+<h1 align="left">About me👩🏻‍💻</h1> 
 
 -  🌅 Cearense, da terra da luz Fortaleza-ce
 -  ❤ Apaixonada por tecnologia e programação.
@@ -141,8 +141,8 @@
 </table>
 
 <div align="left">
-  <img height="203px" src="https://github-readme-stats.vercel.app/api?username=laisfrr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laisfrr&theme=radical">
+  <img height="203px" src="https://github-readme-stats.vercel.app/api?username=laisfrr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /><span>  </span>
+  <img height="203px" src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laisfrr&theme=radical">
 </div>
 <br>
 <hr/>
