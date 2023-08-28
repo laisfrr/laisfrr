@@ -1,13 +1,21 @@
 <h1 align="left">About me👩🏻‍💻</h1> 
 
--  🌅 Cearense, da terra da luz Fortaleza-ce
+- 💻 Eu sou uma desenvolvedora [Front-End | Back-End | Fullstack]
+
+- 💻 Eu estudo  [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Cubos Academy](https://cubos.academy/)
+
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas
+ 
+-  🌅 Sou Cearense, da terra da luz | Fortaleza-ce
 -  ❤ Apaixonada por tecnologia e programação.
 - 🎮 Gamer nas horas vagas e amante de café ☕
 - 👩🏻‍💻 Buscando iniciar minha carreira como <strong>Desenvolvedora de Software Backend, Frontend ou Fullstack </strong>
-- 🎓 Formada em Análise e Desenvolvimento de Sistemas
-- 💻 Atualmente, estudando Desenvolvimento Backend na <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>
+
 - 🧠 Tenho conhecimento em: <strong>HTML, CSS, Javascript, NodeJs, API Rest, Express, Git, Git Flow, PostgreSQL, SQL, Python</strong>
 <br>
+
+### Entre em contato comigo! 📭
+
 <div align="left">
 <a href="https://instagram.com/laisfrr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:laisf.oliv@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -18,127 +26,28 @@
 
 <hr/>
 
-<h1 align="left"> Tecnologias </h1>
-<hr/>
-<table align="left" height="300px">
-  <tr>
-    <td align="center">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br/>
-      <sub>
-        <b>
-          <pre>Javascript<br/></pre>
-        </b>
-      </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nodejs.org/en">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJs icon"/><br/>
-        <sub>
-          <b>
-            <pre>Node.js</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://expressjs.com/">
-        <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/><br/>
-        <sub>
-          <b>
-            <pre>Express.js</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.postgresql.org">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="Postgresql icon"/><br/>
-        <sub>
-          <b>
-            <pre>PostgreSQL</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com">
-        <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br/>
-        <sub>
-          <b>
-            <pre>Git</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.python.org/">
-        <img src="https://skillicons.dev/icons?i=py" width="65px" alt="Python icon"/><br/>
-        <sub>
-          <b>
-            <pre>Python</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-    <tr>
-  </tr>
-  <tr>  
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
-        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
-        <sub>
-          <b>
-            <pre>CSS3</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
-        <sub>
-          <b>
-            <pre>HTML5</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://gitlab.com/laisfrr_">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="65px" alt="gitlab icon"/><br/>
-        <sub>
-          <b>
-            <pre>Gitlab</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br/>
-        <sub>
-          <b>
-            <pre>VSCode</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.postman.com/">
-        <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman icon"/><br/>
-        <sub>
-          <b>
-            <pre>Postman</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-    </tr>
-</table>
+### Cursos realizados 🤓
+
+![DBE Cubos Academy](https://img.shields.io/badge/-DBE%20Cubos%20Academy-19272E?style=for-the-badge&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugD0GThzgjOiADhAdhApwB1l+JK6cI3aHGWstbeKNnJFWtsffm3myHyDFzFbOhsfrXU6DKGqiqMZIKRNZizhlIPrGbfWFVdf/xM2VPqfiidxXRLQezqdHg8L9YOUCzEsAXXRdYUVYTnKWBC4DUCvMMDUB7hT3O8NNTugFRoQJdB3gX/eZ7MYejpurP8yXA0a/sfimXZvFZovpYoqtlSHnJ3g4S0WqMRmbVi7tAndOXl568FPOlck0Olh/BYNKj9l6VJjCYrFh8JtuPiT86ANAmP96hKXCjOIZmNl9QWTbNKc1RiqJXNM3NK/tESF3XU6l/gHnFvELsPPX8gAAAABJRU5ErkJggg==&link=https://cubos.academy/)
+
+
+
+
+<h2 align="left">Tecnologias e Ferramentas 🔧</h2>
+
+
+<div align="left">
+  
+<img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJs icon"/> | <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/> | <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="Postgresql icon"/> | <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/> | <img src="https://skillicons.dev/icons?i=py" width="65px" alt="Python icon"/>
+:---------: | :------: | :-------: | :-------: | :-------: | :-------:
+Javascript | NodeJs | Express | PostgreSQL | Git | Python
+<img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/> | <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/> | <img src="https://skillicons.dev/icons?i=gitlab" width="65px" alt="gitlab icon"/> | <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/> | <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman icon"/>
+HTML5 | CSS | GitLab | VsCode | Postman
+
+</div> 
+
+### GitHub Stats ⚡
+
 
 <div align="left">
   <img height="203px" src="https://github-readme-stats.vercel.app/api?username=laisfrr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /><span>  </span>
