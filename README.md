@@ -1,8 +1,8 @@
 <h1 align="left">About me👩🏻‍💻</h1> 
 
-- 💻 Eu sou uma desenvolvedora [Front-End | Back-End | Fullstack]
+- 💻 Desenvolvedora [Front-End | Back-End | Fullstack]
 
-- 💻 Eu estudo  [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Cubos Academy](https://cubos.academy/)
+- 💻 Estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Cubos Academy](https://cubos.academy/)
 
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas 2023.1
  
