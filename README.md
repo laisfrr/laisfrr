@@ -4,7 +4,7 @@
 
 - 💻 Estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Cubos Academy](https://cubos.academy/)
 
-- 🎓 Formada em Análise e Desenvolvimento de Sistemas 2023.1
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas 2023.2
  
 -  🌅 Sou Cearense, da terra da luz | Fortaleza-ce
 -  ❤ Apaixonada por tecnologia e programação.
