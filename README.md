@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedora [Front-End | Back-End | Fullstack]
 
-- 💻 Estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Cubos Academy](https://cubos.academy/)
+- 💻 Estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software) | [Cubos Academy](https://cubos.academy/)
 
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas 2023.2
  
