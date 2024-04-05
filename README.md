@@ -60,5 +60,5 @@ HTML5 | CSS | GitLab | VsCode | Postman
 <hr/>
 
 <div align="left">
-  <img align="center" height="40px" src="https://komarev.com/ghpvc/?username=laisfrr&color=9932cc"><br>
+  <img align="center" height="30px" src="https://komarev.com/ghpvc/?username=laisfrr&color=blueviolet"><br>
 </div>
