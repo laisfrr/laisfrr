@@ -42,8 +42,8 @@
 <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJs icon"/> | <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/> | <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="Postgresql icon"/> | <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/> | <img src="https://skillicons.dev/icons?i=py" width="65px" alt="Python icon"/>
 :---------: | :------: | :-------: | :-------: | :-------: | :-------:
 Javascript | NodeJs | Express | PostgreSQL | Git | Python
-<img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/> | <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/> | <img src="https://skillicons.dev/icons?i=gitlab" width="65px" alt="gitlab icon"/> | <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/> | <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman icon"/>
-HTML5 | CSS | GitLab | VsCode | Postman
+<img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/> | <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/> | <img src="https://skillicons.dev/icons?i=gitlab" width="65px" alt="gitlab icon"/> | <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/> | <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman icon"/> | <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="Typescript icon"/>
+HTML5 | CSS | GitLab | VsCode | Postman | Typescript
 
 </div> 
 
